@@ -31,20 +31,23 @@
 
 <div align="left">
 
-### Project Name  
+### The King of Kaiju  
 <p>
-  Short description of the project. Focus on what it does and what makes it interesting.
+  A 2D fighting game inspired by the universe of Godzilla
+</p>
+<p>
+  Made as a first year exam project
 </p>
 
 <p>
-  <strong>Tech:</strong> Unity, C# <br>
-  <strong>Focus:</strong> Gameplay systems, UI, AI <br>
-  <strong>Role:</strong> Solo / Team (what you specifically worked on)
+  <strong>Tech:</strong> GameMaker, C# <br>
+  <strong>Focus:</strong> Gameplay Systems & Controls <br>
+  <strong>Role:</strong> Developer in team of 3 developers
 </p>
 
 <p>
   <a href="https://github.com/school-account/project">Repository</a> •
-  <a href="https://your-itch-link">Play</a>
+  <a href="https://jukr5-eadania.itch.io/the-king-of-kaiju">Play</a>
 </p>
 
 ---
@@ -88,4 +91,4 @@
 ## Note
 
 Most of my projects were developed using my school GitHub account:  
-https://github.com/your-school-account
+https://github.com/jukr5-eadania
