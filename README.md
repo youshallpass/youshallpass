@@ -42,46 +42,47 @@
 <p>
   <strong>Tech:</strong> GameMaker, C# <br>
   <strong>Focus:</strong> Gameplay Systems & Controls <br>
-  <strong>Role:</strong> Developer in team of 3 developers
+  <strong>Role:</strong> Developer & TeamLead in team of 3 developers
 </p>
 
 <p>
-  <a href="https://github.com/school-account/project">Repository</a> •
+  <a href="https://github.com/MadsBechP/Kaiju">Repository</a> •
   <a href="https://jukr5-eadania.itch.io/the-king-of-kaiju">Play</a>
 </p>
 
 ---
 
-### Another Project  
+### Zoo project
 <p>
-  Short description of the project.
+  Zoo project made for Skandinavisk Dyrepark (https://skandinaviskdyrepark.dk)
 </p>
 
 <p>
-  <strong>Tech:</strong> Unreal Engine, Blueprints <br>
-  <strong>Focus:</strong> Mechanics, systems <br>
-  <strong>Role:</strong> Your contribution
+  <strong>Tech:</strong> Unity, C# <br>
+  <strong>Focus:</strong> Minigames <br>
+  <strong>Role:</strong> Developer & TeamLead in team of 4 developers
 </p>
 
 <p>
-  <a href="https://github.com/school-account/project">Repository</a>
+  <a href="https://github.com/youshallpass/SDZooProject">Repository</a> •
+  <a href="https://jukr5-eadania.itch.io/zooproject">Play</a>
 </p>
 
 ---
 
-### Third Project  
+### Political Simulator
 <p>
-  Short description of the project.
+  A short SeriousGame made as part of an exam using a Scrum Framework
 </p>
 
 <p>
-  <strong>Tech:</strong> Tools / Engine / Language <br>
-  <strong>Focus:</strong> What you built <br>
-  <strong>Role:</strong> Your role
+  <strong>Tech:</strong> Unity, C+ <br>
+  <strong>Focus:</strong> Gameplay, UI & Scrum <br>
+  <strong>Role:</strong> Developer & ScrumMaster in team of 4 developers
 </p>
 
 <p>
-  <a href="https://github.com/school-account/project">Repository</a>
+  <a href="https://github.com/MadsBechP/PoliticalSim">Repository</a>
 </p>
 
 </div>
