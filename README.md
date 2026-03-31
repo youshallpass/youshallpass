@@ -1,8 +1,8 @@
-<h1 align="center">Heyo</h1>
+<h1 align="left">Heyo</h1>
 
-###
+### Tools
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo"  />
@@ -14,9 +14,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
 </div>
 
-###
+### Socials
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/julius-kristensen/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
   </a>
@@ -26,3 +26,66 @@
 </div>
 
 ###
+
+## Projects
+
+<div align="left">
+
+### Project Name  
+<p>
+  Short description of the project. Focus on what it does and what makes it interesting.
+</p>
+
+<p>
+  <strong>Tech:</strong> Unity, C# <br>
+  <strong>Focus:</strong> Gameplay systems, UI, AI <br>
+  <strong>Role:</strong> Solo / Team (what you specifically worked on)
+</p>
+
+<p>
+  <a href="https://github.com/school-account/project">Repository</a> •
+  <a href="https://your-itch-link">Play</a>
+</p>
+
+---
+
+### Another Project  
+<p>
+  Short description of the project.
+</p>
+
+<p>
+  <strong>Tech:</strong> Unreal Engine, Blueprints <br>
+  <strong>Focus:</strong> Mechanics, systems <br>
+  <strong>Role:</strong> Your contribution
+</p>
+
+<p>
+  <a href="https://github.com/school-account/project">Repository</a>
+</p>
+
+---
+
+### Third Project  
+<p>
+  Short description of the project.
+</p>
+
+<p>
+  <strong>Tech:</strong> Tools / Engine / Language <br>
+  <strong>Focus:</strong> What you built <br>
+  <strong>Role:</strong> Your role
+</p>
+
+<p>
+  <a href="https://github.com/school-account/project">Repository</a>
+</p>
+
+</div>
+
+---
+
+## Note
+
+Most of my projects were developed using my school GitHub account:  
+https://github.com/your-school-account
