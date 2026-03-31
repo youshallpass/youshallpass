@@ -31,6 +31,30 @@
 
 <div align="left">
 
+### Deep Space Dysphoria Blues (DSDB)
+<p>
+  A 3D tactical space battle simulator made for Ludic Lemur (https://www.ludiclemur.com/home)
+</p>
+<p>
+  This project was made during my time at Centre for Digital Media (https://thecdm.ca)
+</p>
+
+<p>
+  <strong>Tech:</strong> Unreal, Blueprints, C++ <br>
+  <strong>Focus:</strong> Gameplay systems & Audio <br>
+  <strong>Role:</strong> Developer in team of 7
+</p>
+
+<p>
+  <a href="">Repository</a>
+</p>
+
+Note:
+This project was developed using my CDM GitLab account
+https://gitlab.thecdm.ca/julius_cdm
+
+---
+
 ### The King of Kaiju  
 <p>
   A 2D fighting game inspired by the universe of Godzilla
