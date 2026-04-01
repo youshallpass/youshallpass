@@ -38,6 +38,9 @@
 <p>
   This project was made during my time at Centre for Digital Media (https://thecdm.ca)
 </p>
+<p>
+  Read more about the project from the official CDM description here: https://thecdm.ca/projects/deep-space-dysphoria-blues-ludic-lemur
+</p>
 
 <p>
   <strong>Tech:</strong> Unreal, Blueprints, C++ <br>
